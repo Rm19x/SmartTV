@@ -12,8 +12,8 @@ version:             0.1.0.0
 summary:             A 100% real CLI remote control tool for Android TV, Tizen, and WebOS.
 description:         A functional Haskell-based command line utility designed by Mr.Rm19 
                      to discover, pair, and control Smart TVs over a local Wi-Fi network.
-homepage:            https://github.com/Rm19x/tv-remote-cli
-bug-reports:         https://github.com/Rm19x/tv-remote-cli/issues
+homepage:            https://github.com/Rm19x/SmartTV
+bug-reports:         https://github.com/Rm19x/SmartTV/issues
 license:             MIT
 author:              Mr.Rm19
 maintainer:          https://github.com/Rm19x
